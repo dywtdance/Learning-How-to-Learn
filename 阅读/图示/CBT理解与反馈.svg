@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 800 600"><defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 1 1 L 9 5 L 1 9" fill="none" stroke="#475569" stroke-width="1.5"/></marker></defs><rect width="800" height="600" fill="#fff"/><g font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" fill="#1e293b">
+<text x="182" y="44" font-size="26" fill="#1e293b">CBT：先理解，再选择方法</text>
+<text x="150" y="71" font-size="18" fill="#475569">书中框架的整理 · 不代表个人模式已经证实</text>
+<rect x="200" y="93" width="400" height="65" rx="12" fill="#a5d8ff" stroke="#475569" stroke-width="1.4"/>
+<text x="400" y="131.5" text-anchor="middle" font-size="18">具体事件＋想法、情绪、身体与行动</text>
+<polyline points="400,158 400,183" fill="none" stroke="#475569" stroke-width="1.5"  marker-end="url(#arrow)"/>
+<rect x="200" y="183" width="400" height="65" rx="12" fill="#fff3bf" stroke="#475569" stroke-width="1.4"/>
+<text x="400" y="221.5" text-anchor="middle" font-size="18">共同形成假设：同时看现实条件与资源</text>
+<polyline points="270,248 135,290" fill="none" stroke="#475569" stroke-width="1.5"  marker-end="url(#arrow)"/>
+<polyline points="400,248 400,290" fill="none" stroke="#475569" stroke-width="1.5"  marker-end="url(#arrow)"/>
+<polyline points="530,248 665,290" fill="none" stroke="#475569" stroke-width="1.5"  marker-end="url(#arrow)"/>
+<rect x="25" y="290" width="220" height="95" rx="12" fill="#d0bfff" stroke="#475569" stroke-width="1.4"/>
+<text x="135" y="331.5" text-anchor="middle" font-size="18">想法内容</text>
+<text x="135" y="355.5" text-anchor="middle" font-size="18">检查证据与其他解释</text>
+<rect x="290" y="290" width="220" height="95" rx="12" fill="#c3fae8" stroke="#475569" stroke-width="1.4"/>
+<text x="400" y="331.5" text-anchor="middle" font-size="18">现实困难</text>
+<text x="400" y="355.5" text-anchor="middle" font-size="18">问题解决、休息、技能</text>
+<rect x="555" y="290" width="220" height="95" rx="12" fill="#ffd8a8" stroke="#475569" stroke-width="1.4"/>
+<text x="665" y="331.5" text-anchor="middle" font-size="18">反复思考过程</text>
+<text x="665" y="355.5" text-anchor="middle" font-size="18">觉察、拉开距离、行动</text>
+<polyline points="135,385 270,425" fill="none" stroke="#475569" stroke-width="1.5"  marker-end="url(#arrow)"/>
+<polyline points="400,385 400,425" fill="none" stroke="#475569" stroke-width="1.5"  marker-end="url(#arrow)"/>
+<polyline points="665,385 530,425" fill="none" stroke="#475569" stroke-width="1.5"  marker-end="url(#arrow)"/>
+<rect x="200" y="425" width="400" height="60" rx="12" fill="#b2f2bb" stroke="#475569" stroke-width="1.4"/>
+<text x="400" y="461" text-anchor="middle" font-size="18">如双方接受：一个小尝试＋可观察的结果</text>
+<polyline points="400,485 400,510" fill="none" stroke="#475569" stroke-width="1.5"  marker-end="url(#arrow)"/>
+<rect x="200" y="510" width="400" height="60" rx="12" fill="#a5d8ff" stroke="#475569" stroke-width="1.4"/>
+<text x="400" y="546" text-anchor="middle" font-size="18">回看反馈 → 修正理解、方法或任务负担</text>
+<polyline points="600,540 780,540 780,215 605,215" fill="none" stroke="#475569" stroke-width="1.5" stroke-dasharray="5 5" marker-end="url(#arrow)"/>
+</g></svg>

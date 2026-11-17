@@ -1,0 +1,12 @@
+# Runtime caches and local credentials only. Project materials are in scope.
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.DS_Store
+Thumbs.db
+# Empty nested clone of this same remote; retain locally, do not nest repositories.
+/Learning-How-to-Learn/
