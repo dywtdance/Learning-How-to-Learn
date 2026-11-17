@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="920" viewBox="0 0 1440 920"><defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#526777"/></marker></defs><rect width="100%" height="100%" fill="#f8fafc"/>
+<text x="52" y="64" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="34" font-weight="600" fill="#243746"><tspan x="52" dy="0">学过却不会用：从错题找检查点</tspan></text>
+<text x="52" y="106" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="21" font-weight="400" fill="#627481"><tspan x="52" dy="0">虚构教学案例｜实线：给定信息与操作；虚线：候选解释、预测及反馈返回。</tspan></text>
+<rect x="52" y="185" width="350" height="190" rx="16" fill="#fff5e6" stroke="#956721" stroke-width="2"/>
+<text x="74" y="228" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="25" font-weight="600" fill="#956721"><tspan x="74" dy="0">先描述现象</tspan></text>
+<text x="74" y="268" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="21" font-weight="400" fill="#243746"><tspan x="74" dy="0">未见题：3道对1道</tspan><tspan x="74" dy="31.08">连续百分比变化时</tspan><tspan x="74" dy="31.08">第二次仍取最初量作基准</tspan></text>
+<rect x="510" y="140" width="360" height="135" rx="16" fill="#edf3fb" stroke="#3c659e" stroke-width="2"/>
+<text x="532" y="183" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="25" font-weight="600" fill="#3c659e"><tspan x="532" dy="0">假设 A · 关系不清</tspan></text>
+<text x="532" y="223" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="21" font-weight="400" fill="#243746"><tspan x="532" dy="0">未理解基准为何更新</tspan><tspan x="532" dy="31.08">预测：口述时也说不清</tspan></text>
+<rect x="510" y="320" width="360" height="135" rx="16" fill="#edf3fb" stroke="#3c659e" stroke-width="2"/>
+<text x="532" y="363" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="25" font-weight="600" fill="#3c659e"><tspan x="532" dy="0">假设 B · 执行遗漏</tspan></text>
+<text x="532" y="403" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="21" font-weight="400" fill="#243746"><tspan x="532" dy="0">知道规则，但漏读条件</tspan><tspan x="532" dy="31.08">预测：能说清，做题漏步骤</tspan></text>
+<polyline points="402,250 455,250 455,205 510,205" fill="none" stroke="#526777" stroke-width="2.5" stroke-dasharray="8 6" marker-end="url(#arrow)"/>
+<polyline points="402,310 455,310 455,385 510,385" fill="none" stroke="#526777" stroke-width="2.5" stroke-dasharray="8 6" marker-end="url(#arrow)"/>
+<rect x="1010" y="215" width="375" height="180" rx="16" fill="#ffffff" stroke="#147d92" stroke-width="2"/>
+<text x="1032" y="258" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="25" font-weight="600" fill="#147d92"><tspan x="1032" dy="0">区分检查</tspan></text>
+<text x="1032" y="298" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="21" font-weight="400" fill="#243746"><tspan x="1032" dy="0">指出每一步起点，口述原因</tspan><tspan x="1032" dy="31.08">再做一题，保留作答过程</tspan><tspan x="1032" dy="31.08">还要留意运算与题意问题</tspan></text>
+<polyline points="870,205 940,205 940,260 1010,260" fill="none" stroke="#526777" stroke-width="2.5" stroke-dasharray="8 6" marker-end="url(#arrow)"/>
+<polyline points="870,385 940,385 940,350 1010,350" fill="none" stroke="#526777" stroke-width="2.5" stroke-dasharray="8 6" marker-end="url(#arrow)"/>
+<polyline points="1197,395 1197,530" fill="none" stroke="#526777" stroke-width="2.5" marker-end="url(#arrow)"/>
+<rect x="1010" y="530" width="375" height="180" rx="16" fill="#ffffff" stroke="#147d92" stroke-width="2"/>
+<text x="1032" y="573" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="25" font-weight="600" fill="#147d92"><tspan x="1032" dy="0">依据结果选一处调整</tspan></text>
+<text x="1032" y="613" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="21" font-weight="400" fill="#243746"><tspan x="1032" dy="0">说不清：先示范基准更新</tspan><tspan x="1032" dy="31.08">说得清却漏做：练条件识别</tspan><tspan x="1032" dy="31.08">其他错误：检查新的解释</tspan></text>
+<polyline points="1010,620 870,620" fill="none" stroke="#526777" stroke-width="2.5" marker-end="url(#arrow)"/>
+<text x="885" y="598" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="18" font-weight="400" fill="#627481"><tspan x="885" dy="0">对准缺口</tspan></text>
+<rect x="510" y="530" width="360" height="180" rx="16" fill="#eaf5f3" stroke="#147d92" stroke-width="2"/>
+<text x="532" y="573" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="25" font-weight="600" fill="#147d92"><tspan x="532" dy="0">新任务检验</tspan></text>
+<text x="532" y="613" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="21" font-weight="400" fill="#243746"><tspan x="532" dy="0">用新数字与新表述作答</tspan><tspan x="532" dy="31.08">记录是否需要提示</tspan><tspan x="532" dy="31.08">当场做对后，再安排隔时检查</tspan></text>
+<polyline points="510,620 402,620" fill="none" stroke="#526777" stroke-width="2.5" marker-end="url(#arrow)"/>
+<rect x="52" y="530" width="350" height="180" rx="16" fill="#ffffff" stroke="#147d92" stroke-width="2"/>
+<text x="74" y="573" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="25" font-weight="600" fill="#147d92"><tspan x="74" dy="0">更新理解与下次入口</tspan></text>
+<text x="74" y="613" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="21" font-weight="400" fill="#243746"><tspan x="74" dy="0">保留原答，写具体修正</tspan><tspan x="74" dy="31.08">连回“基准随步骤更新”</tspan><tspan x="74" dy="31.08">未通过则回查解释和练习</tspan></text>
+<polyline points="225,710 225,780 940,780 940,460 1010,460 1010,395" fill="none" stroke="#526777" stroke-width="2.5" stroke-dasharray="8 6" marker-end="url(#arrow)"/>
+<text x="335" y="812" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="22" font-weight="400" fill="#627481"><tspan x="335" dy="0">反馈返回具体缺口；一次表现不推断固定能力或人格。</tspan></text>
+<text x="52" y="883" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="18" font-weight="400" fill="#627481"><tspan x="52" dy="0">依据：深度思考法第2—6章 + 超速学习的直接练习与反馈；案例、分支和检查点为教学设计。</tspan></text>
+</svg>

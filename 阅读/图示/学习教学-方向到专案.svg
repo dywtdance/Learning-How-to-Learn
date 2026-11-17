@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="1090" viewBox="0 0 1440 1090"><defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#526777"/></marker></defs><rect width="100%" height="100%" fill="#f8fafc"/>
+<text x="52" y="64" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="34" font-weight="600" fill="#243746"><tspan x="52" dy="0">从经历线索，到一个可以验收的学习专案</tspan></text>
+<text x="52" y="106" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="21" font-weight="400" fill="#627481"><tspan x="52" dy="0">教学示范｜先形成候选方向，再让试做结果决定保留什么、学习什么。</tspan></text>
+<rect x="52" y="145" width="410" height="145" rx="16" fill="#eaf5f3" stroke="#147d92" stroke-width="2"/>
+<text x="74" y="188" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="25" font-weight="600" fill="#147d92"><tspan x="74" dy="0">WHY · 我重视的结果</tspan></text>
+<text x="74" y="228" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="21" font-weight="400" fill="#243746"><tspan x="74" dy="0">让新手能自主完成事情</tspan><tspan x="74" dy="31.08">依据：曾帮助朋友读懂说明</tspan></text>
+<rect x="515" y="145" width="410" height="145" rx="16" fill="#edf3fb" stroke="#3c659e" stroke-width="2"/>
+<text x="537" y="188" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="25" font-weight="600" fill="#3c659e"><tspan x="537" dy="0">HOW · 有经历线索的动作</tspan></text>
+<text x="537" y="228" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="21" font-weight="400" fill="#243746"><tspan x="537" dy="0">重排步骤，找出遗漏</tspan><tspan x="537" dy="31.08">依据：修改稿与朋友的反馈</tspan></text>
+<rect x="978" y="145" width="410" height="145" rx="16" fill="#fff5e6" stroke="#956721" stroke-width="2"/>
+<text x="1000" y="188" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="25" font-weight="600" fill="#956721"><tspan x="1000" dy="0">WHAT · 愿意继续追问的领域</tspan></text>
+<text x="1000" y="228" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="21" font-weight="400" fill="#243746"><tspan x="1000" dy="0">学习方法怎样用起来</tspan><tspan x="1000" dy="31.08">依据：会主动比较相关材料</tspan></text>
+<polyline points="257,290 257,325 540,325 540,355" fill="none" stroke="#526777" stroke-width="2.5" marker-end="url(#arrow)"/>
+<polyline points="720,290 720,355" fill="none" stroke="#526777" stroke-width="2.5" marker-end="url(#arrow)"/>
+<polyline points="1183,290 1183,325 900,325 900,355" fill="none" stroke="#526777" stroke-width="2.5" marker-end="url(#arrow)"/>
+<rect x="420" y="355" width="600" height="135" rx="16" fill="#ffffff" stroke="#147d92" stroke-width="2"/>
+<text x="442" y="398" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="25" font-weight="600" fill="#147d92"><tspan x="442" dy="0">候选方向 · 仍待实践检验</tspan></text>
+<text x="442" y="438" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="21" font-weight="400" fill="#243746"><tspan x="442" dy="0">把一种学习方法写成新手能跟做的示范</tspan><tspan x="442" dy="31.08">组合理由：动作服务于目的，也回应兴趣</tspan></text>
+<polyline points="720,490 720,550" fill="none" stroke="#526777" stroke-width="2.5" marker-end="url(#arrow)"/>
+<text x="745" y="524" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="19" font-weight="400" fill="#627481"><tspan x="745" dy="0">转成实际动作</tspan></text>
+<rect x="420" y="550" width="600" height="145" rx="16" fill="#ffffff" stroke="#147d92" stroke-width="2"/>
+<text x="442" y="593" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="25" font-weight="600" fill="#147d92"><tspan x="442" dy="0">小试做 · 留下作品与实际回应</tspan></text>
+<text x="442" y="633" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="21" font-weight="400" fill="#243746"><tspan x="442" dy="0">一页说明 + 一道变式题 + 原答与修改</tspan><tspan x="442" dy="31.08">检查过程意愿、成果质量、资源条件</tspan></text>
+<rect x="52" y="535" width="300" height="165" rx="16" fill="#fff5e6" stroke="#956721" stroke-width="2"/>
+<text x="74" y="578" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="25" font-weight="600" fill="#956721"><tspan x="74" dy="0">边界先定</tspan></text>
+<text x="74" y="618" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="21" font-weight="400" fill="#243746"><tspan x="74" dy="0">只试一个小能力</tspan><tspan x="74" dy="31.08">预算按实际时间约定</tspan><tspan x="74" dy="31.08">助手评阅≠读者实测</tspan></text>
+<polyline points="352,620 420,620" fill="none" stroke="#526777" stroke-width="2.5" marker-end="url(#arrow)"/>
+<polyline points="610,695 610,730 345,730 345,770" fill="none" stroke="#526777" stroke-width="2.5" marker-end="url(#arrow)"/>
+<polyline points="830,695 830,730 1095,730 1095,770" fill="none" stroke="#526777" stroke-width="2.5" marker-end="url(#arrow)"/>
+<rect x="52" y="770" width="590" height="140" rx="16" fill="#eaf5f3" stroke="#147d92" stroke-width="2"/>
+<text x="74" y="813" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="25" font-weight="600" fill="#147d92"><tspan x="74" dy="0">回看方向 · 哪部分值得继续？</tspan></text>
+<text x="74" y="853" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="21" font-weight="400" fill="#243746"><tspan x="74" dy="0">是领域、动作或条件不合适，还是仍不清楚？</tspan><tspan x="74" dy="31.08">保留有依据的部分，缩小或更换下一次试做</tspan></text>
+<rect x="798" y="770" width="590" height="140" rx="16" fill="#edf3fb" stroke="#3c659e" stroke-width="2"/>
+<text x="820" y="813" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="25" font-weight="600" fill="#3c659e"><tspan x="820" dy="0">发现缺口 · 具体要学会什么？</tspan></text>
+<text x="820" y="853" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="21" font-weight="400" fill="#243746"><tspan x="820" dy="0">例如：设计能区分背答案与理解的变式题</tspan><tspan x="820" dy="31.08">接入 CP0：基线 → 示范练习 → 新任务验收</tspan></text>
+<polyline points="52,835 25,835 25,422 420,422" fill="none" stroke="#526777" stroke-width="2.5" stroke-dasharray="8 6" marker-end="url(#arrow)"/>
+<text x="60" y="968" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="24" font-weight="600" fill="#243746"><tspan x="60" dy="0">复用：保留“经历 → 解释 → 试做 → 修正”的来源链，下一次选择可回查。</tspan></text>
+<text x="60" y="1052" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="18" font-weight="400" fill="#627481"><tspan x="60" dy="0">依据：八木仁平第3—8章；反馈回路与专案检查点为本项目综合设计。不是用户经历。</tspan></text>
+<text x="60" y="1010" font-family="Microsoft YaHei, sans-serif" font-size="18" fill="#627481">图例：实线表示线索与行动接续；虚线表示根据经验返回修正。</text></svg>

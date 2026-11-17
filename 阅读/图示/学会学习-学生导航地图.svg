@@ -1,0 +1,173 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1640" height="1150" viewBox="0 0 1640 1150"><defs><marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#4f6777"/></marker></defs><rect width="100%" height="100%" fill="#fffdf8"/>
+<text x="55" y="66" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="38" font-weight="600" fill="#334957"><tspan x="55" dy="0">学会学习 · 给正在找方向的你</tspan></text>
+<text x="55" y="111" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="24" font-weight="400" fill="#657780"><tspan x="55" dy="0">先找到自己所在的一站。每次只走一小段，带着结果回来，再决定下一步。</tspan></text>
+<polyline points="350,320 450,320" fill="none" stroke="#334957" stroke-width="3" marker-end="url(#a)"/>
+<text x="358" y="275" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="18" font-weight="400" fill="#596f7c"><tspan x="358" dy="0">认清</tspan><tspan x="358" dy="27.0">需要</tspan></text>
+<polyline points="750,320 850,320" fill="none" stroke="#334957" stroke-width="3" marker-end="url(#a)"/>
+<text x="758" y="275" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="18" font-weight="400" fill="#596f7c"><tspan x="758" dy="0">方向变成</tspan><tspan x="758" dy="27.0">任务</tspan></text>
+<polyline points="1150,320 1250,320" fill="none" stroke="#334957" stroke-width="3" marker-end="url(#a)"/>
+<text x="1158" y="275" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="18" font-weight="400" fill="#596f7c"><tspan x="1158" dy="0">按缺口</tspan><tspan x="1158" dy="27.0">选内容</tspan></text>
+<polyline points="1400,450 1400,650" fill="none" stroke="#334957" stroke-width="3" marker-end="url(#a)"/>
+<text x="1420" y="529" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="19" font-weight="400" fill="#596f7c"><tspan x="1420" dy="0">一个问题</tspan><tspan x="1420" dy="28.5">单元收束</tspan></text>
+<polyline points="1250,775 1150,775" fill="none" stroke="#334957" stroke-width="3" marker-end="url(#a)"/>
+<text x="1158" y="728" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="18" font-weight="400" fill="#596f7c"><tspan x="1158" dy="0">跨笔记</tspan><tspan x="1158" dy="27.0">使用</tspan></text>
+<polyline points="850,775 750,775" fill="none" stroke="#334957" stroke-width="3" marker-end="url(#a)"/>
+<text x="762" y="728" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="18" font-weight="400" fill="#596f7c"><tspan x="762" dy="0">保留</tspan><tspan x="762" dy="27.0">证据</tspan></text>
+<polyline points="1000,650 1000,550 1365,550 1365,450" fill="none" stroke="#334957" stroke-width="2.5" stroke-dasharray="8 7" marker-end="url(#a)"/>
+<text x="1025" y="579" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="19" font-weight="400" fill="#906b54"><tspan x="1025" dy="0">新题没过：回到具体缺口补练</tspan></text>
+<polyline points="600,650 600,450" fill="none" stroke="#334957" stroke-width="2.5" stroke-dasharray="8 7" marker-end="url(#a)"/>
+<text x="625" y="524" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="19" font-weight="400" fill="#906b54"><tspan x="625" dy="0">新经验改变判断</tspan><tspan x="625" dy="28.5">可以重看方向</tspan></text>
+<polyline points="200,450 200,650" fill="none" stroke="#334957" stroke-width="2.5" stroke-dasharray="8 7" marker-end="url(#a)"/>
+<text x="222" y="519" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="19" font-weight="400" fill="#906b54"><tspan x="222" dy="0">条件不足时</tspan><tspan x="222" dy="28.5">先恢复与求助</tspan></text>
+<polyline points="50,775 23,775 23,320 50,320" fill="none" stroke="#334957" stroke-width="2.5" stroke-dasharray="8 7" marker-end="url(#a)"/>
+<rect x="50" y="200" width="300" height="250" rx="16" fill="#edf5ed" stroke="#b3c3c6" stroke-width="2"/>
+<ellipse cx="110.5" cy="291.5" rx="37.5" ry="4.5" fill="#e4e6df" stroke="#e4e6df" stroke-width="2"/>
+<rect x="89" y="252" width="35" height="33" rx="10" fill="#91b8b0" stroke="#334957" stroke-width="2"/>
+<ellipse cx="106.5" cy="235.5" rx="22.5" ry="20.5" fill="#ffe1b8" stroke="#334957" stroke-width="2"/>
+<ellipse cx="96.5" cy="232.0" rx="1.5" ry="2.0" fill="#334957" stroke="#334957" stroke-width="2"/>
+<ellipse cx="116.5" cy="232.0" rx="1.5" ry="2.0" fill="#334957" stroke="#334957" stroke-width="2"/>
+<polyline points="101,242 106,245 112,241" fill="none" stroke="#334957" stroke-width="2"/>
+<polyline points="95,284 91,293 81,293" fill="none" stroke="#334957" stroke-width="3"/>
+<polyline points="118,284 124,293 133,293" fill="none" stroke="#334957" stroke-width="3"/>
+<polyline points="89,261 75,270" fill="none" stroke="#334957" stroke-width="3"/>
+<polyline points="124,261 139,259" fill="none" stroke="#334957" stroke-width="3"/>
+<polyline points="144,288 144,261" fill="none" stroke="#448b6c" stroke-width="3"/>
+<ellipse cx="144.0" cy="267.0" rx="8.0" ry="8.0" fill="#f9cd65" stroke="#334957" stroke-width="2"/>
+<ellipse cx="136.0" cy="277.0" rx="8.0" ry="4.0" fill="#a2cf9c" stroke="#334957" stroke-width="2"/>
+<text x="178" y="251" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="27" font-weight="600" fill="#334957"><tspan x="178" dy="0">1 回到当下</tspan></text>
+<text x="178" y="285" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="18" font-weight="400" fill="#697b80"><tspan x="178" dy="0">小花 · 看清眼前</tspan></text>
+<text x="72" y="341" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="21" font-weight="400" fill="#334957"><tspan x="72" dy="0">现在最难受或最不清楚的</tspan><tspan x="72" dy="33.0">具体是什么？</tspan><tspan x="72" dy="33.0">先分清事实、猜测与状态。</tspan></text>
+<text x="72" y="428" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="19" font-weight="600" fill="#2e756d"><tspan x="72" dy="0">留下一句具体描述即可</tspan></text>
+<rect x="450" y="200" width="300" height="250" rx="16" fill="#fff3dd" stroke="#b3c3c6" stroke-width="2"/>
+<ellipse cx="510.5" cy="291.5" rx="37.5" ry="4.5" fill="#e4e6df" stroke="#e4e6df" stroke-width="2"/>
+<rect x="489" y="252" width="35" height="33" rx="10" fill="#91b8b0" stroke="#334957" stroke-width="2"/>
+<ellipse cx="506.5" cy="235.5" rx="22.5" ry="20.5" fill="#ffe1b8" stroke="#334957" stroke-width="2"/>
+<ellipse cx="496.5" cy="232.0" rx="1.5" ry="2.0" fill="#334957" stroke="#334957" stroke-width="2"/>
+<ellipse cx="516.5" cy="232.0" rx="1.5" ry="2.0" fill="#334957" stroke="#334957" stroke-width="2"/>
+<polyline points="501,242 506,245 512,241" fill="none" stroke="#334957" stroke-width="2"/>
+<polyline points="495,284 491,293 481,293" fill="none" stroke="#334957" stroke-width="3"/>
+<polyline points="518,284 524,293 533,293" fill="none" stroke="#334957" stroke-width="3"/>
+<polyline points="489,261 475,270" fill="none" stroke="#334957" stroke-width="3"/>
+<polyline points="524,261 539,259" fill="none" stroke="#334957" stroke-width="3"/>
+<ellipse cx="544.0" cy="265.0" rx="15.0" ry="15.0" fill="#fff5d9" stroke="#334957" stroke-width="2"/>
+<polyline points="544,254 537,271 551,267 544,254" fill="none" stroke="#c16761" stroke-width="2"/>
+<text x="578" y="251" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="27" font-weight="600" fill="#334957"><tspan x="578" dy="0">2 辨认方向</tspan></text>
+<text x="578" y="285" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="18" font-weight="400" fill="#697b80"><tspan x="578" dy="0">罗盘 · 找一点意义</tspan></text>
+<text x="472" y="341" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="21" font-weight="400" fill="#334957"><tspan x="472" dy="0">我希望改善哪一小处？</tspan><tspan x="472" dy="33.0">重视什么，愿意试什么？</tspan><tspan x="472" dy="33.0">方向未知就做一个小样品。</tspan></text>
+<text x="472" y="428" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="19" font-weight="600" fill="#2e756d"><tspan x="472" dy="0">方向检查：值得试，能承受</tspan></text>
+<rect x="850" y="200" width="300" height="250" rx="16" fill="#edf2fb" stroke="#b3c3c6" stroke-width="2"/>
+<ellipse cx="910.5" cy="291.5" rx="37.5" ry="4.5" fill="#e4e6df" stroke="#e4e6df" stroke-width="2"/>
+<rect x="889" y="252" width="35" height="33" rx="10" fill="#91b8b0" stroke="#334957" stroke-width="2"/>
+<ellipse cx="906.5" cy="235.5" rx="22.5" ry="20.5" fill="#ffe1b8" stroke="#334957" stroke-width="2"/>
+<ellipse cx="896.5" cy="232.0" rx="1.5" ry="2.0" fill="#334957" stroke="#334957" stroke-width="2"/>
+<ellipse cx="916.5" cy="232.0" rx="1.5" ry="2.0" fill="#334957" stroke="#334957" stroke-width="2"/>
+<polyline points="901,242 906,245 912,241" fill="none" stroke="#334957" stroke-width="2"/>
+<polyline points="895,284 891,293 881,293" fill="none" stroke="#334957" stroke-width="3"/>
+<polyline points="918,284 924,293 933,293" fill="none" stroke="#334957" stroke-width="3"/>
+<polyline points="889,261 875,270" fill="none" stroke="#334957" stroke-width="3"/>
+<polyline points="924,261 939,259" fill="none" stroke="#334957" stroke-width="3"/>
+<polyline points="942,232 942,290" fill="none" stroke="#334957" stroke-width="3"/>
+<polyline points="942,233 964,239 942,250" fill="none" stroke="#ce7746" stroke-width="4"/>
+<text x="978" y="251" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="27" font-weight="600" fill="#334957"><tspan x="978" dy="0">3 建小专案</tspan></text>
+<text x="978" y="285" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="18" font-weight="400" fill="#697b80"><tspan x="978" dy="0">旗帜 · 定下本轮任务</tspan></text>
+<text x="872" y="341" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="21" font-weight="400" fill="#334957"><tspan x="872" dy="0">最终要能解释或完成什么？</tspan><tspan x="872" dy="33.0">先试一次，留下基线。</tspan><tspan x="872" dy="33.0">说清标准与允许的帮助。</tspan></text>
+<text x="872" y="428" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="19" font-weight="600" fill="#2e756d"><tspan x="872" dy="0">CP0：知道终点怎样核对</tspan></text>
+<rect x="1250" y="200" width="300" height="250" rx="16" fill="#f9f0e8" stroke="#b3c3c6" stroke-width="2"/>
+<ellipse cx="1310.5" cy="291.5" rx="37.5" ry="4.5" fill="#e4e6df" stroke="#e4e6df" stroke-width="2"/>
+<rect x="1289" y="252" width="35" height="33" rx="10" fill="#91b8b0" stroke="#334957" stroke-width="2"/>
+<ellipse cx="1306.5" cy="235.5" rx="22.5" ry="20.5" fill="#ffe1b8" stroke="#334957" stroke-width="2"/>
+<ellipse cx="1296.5" cy="232.0" rx="1.5" ry="2.0" fill="#334957" stroke="#334957" stroke-width="2"/>
+<ellipse cx="1316.5" cy="232.0" rx="1.5" ry="2.0" fill="#334957" stroke="#334957" stroke-width="2"/>
+<polyline points="1301,242 1306,245 1312,241" fill="none" stroke="#334957" stroke-width="2"/>
+<polyline points="1295,284 1291,293 1281,293" fill="none" stroke="#334957" stroke-width="3"/>
+<polyline points="1318,284 1324,293 1333,293" fill="none" stroke="#334957" stroke-width="3"/>
+<polyline points="1289,261 1275,270" fill="none" stroke="#334957" stroke-width="3"/>
+<polyline points="1324,261 1339,259" fill="none" stroke="#334957" stroke-width="3"/>
+<rect x="1272" y="261" width="33" height="27" rx="3" fill="#fff7d9" stroke="#334957" stroke-width="2"/>
+<rect x="1305" y="261" width="33" height="27" rx="3" fill="#fff7d9" stroke="#334957" stroke-width="2"/>
+<polyline points="1305,263 1305,286" fill="none" stroke="#334957" stroke-width="2"/>
+<polyline points="1279,271 1297,271" fill="none" stroke="#334957" stroke-width="2"/>
+<polyline points="1313,271 1331,271" fill="none" stroke="#334957" stroke-width="2"/>
+<text x="1378" y="251" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="27" font-weight="600" fill="#334957"><tspan x="1378" dy="0">4 学一小块</tspan></text>
+<text x="1378" y="285" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="18" font-weight="400" fill="#697b80"><tspan x="1378" dy="0">小书 · 解释与动手</tspan></text>
+<text x="1272" y="341" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="21" font-weight="400" fill="#334957"><tspan x="1272" dy="0">看示范 → 自己说或做</tspan><tspan x="1272" dy="33.0">不看答案试一次，再核对。</tspan><tspan x="1272" dy="33.0">提示够用后，逐步撤掉。</tspan></text>
+<text x="1272" y="428" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="19" font-weight="600" fill="#2e756d"><tspan x="1272" dy="0">CP1：能解释，能做新例子</tspan></text>
+<rect x="1250" y="650" width="300" height="250" rx="16" fill="#f1edf8" stroke="#b3c3c6" stroke-width="2"/>
+<ellipse cx="1310.5" cy="741.5" rx="37.5" ry="4.5" fill="#e4e6df" stroke="#e4e6df" stroke-width="2"/>
+<rect x="1289" y="702" width="35" height="33" rx="10" fill="#91b8b0" stroke="#334957" stroke-width="2"/>
+<ellipse cx="1306.5" cy="685.5" rx="22.5" ry="20.5" fill="#ffe1b8" stroke="#334957" stroke-width="2"/>
+<ellipse cx="1296.5" cy="682.0" rx="1.5" ry="2.0" fill="#334957" stroke="#334957" stroke-width="2"/>
+<ellipse cx="1316.5" cy="682.0" rx="1.5" ry="2.0" fill="#334957" stroke="#334957" stroke-width="2"/>
+<polyline points="1301,692 1306,695 1312,691" fill="none" stroke="#334957" stroke-width="2"/>
+<polyline points="1295,734 1291,743 1281,743" fill="none" stroke="#334957" stroke-width="3"/>
+<polyline points="1318,734 1324,743 1333,743" fill="none" stroke="#334957" stroke-width="3"/>
+<polyline points="1289,711 1275,720" fill="none" stroke="#334957" stroke-width="3"/>
+<polyline points="1324,711 1339,709" fill="none" stroke="#334957" stroke-width="3"/>
+<rect x="1332" y="699" width="22" height="18" rx="4" fill="#c8e4ec" stroke="#334957" stroke-width="2"/>
+<rect x="1347" y="720" width="22" height="18" rx="4" fill="#f5d699" stroke="#334957" stroke-width="2"/>
+<polyline points="1344,717 1352,720" fill="none" stroke="#334957" stroke-width="3"/>
+<text x="1378" y="701" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="27" font-weight="600" fill="#334957"><tspan x="1378" dy="0">5 把它串起</tspan></text>
+<text x="1378" y="735" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="18" font-weight="400" fill="#697b80"><tspan x="1378" dy="0">积木 · 连接有理由</tspan></text>
+<text x="1272" y="791" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="21" font-weight="400" fill="#334957"><tspan x="1272" dy="0">关键词 → 组块 → 关系</tspan><tspan x="1272" dy="33.0">结构 → 细节 → 评估修正</tspan><tspan x="1272" dy="33.0">最后画清楚，并留纸本地址。</tspan></text>
+<text x="1272" y="878" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="19" font-weight="600" fill="#2e756d"><tspan x="1272" dy="0">CP2：关系能用于跨笔记任务</tspan></text>
+<rect x="850" y="650" width="300" height="250" rx="16" fill="#edf4fa" stroke="#b3c3c6" stroke-width="2"/>
+<ellipse cx="910.5" cy="741.5" rx="37.5" ry="4.5" fill="#e4e6df" stroke="#e4e6df" stroke-width="2"/>
+<rect x="889" y="702" width="35" height="33" rx="10" fill="#91b8b0" stroke="#334957" stroke-width="2"/>
+<ellipse cx="906.5" cy="685.5" rx="22.5" ry="20.5" fill="#ffe1b8" stroke="#334957" stroke-width="2"/>
+<ellipse cx="896.5" cy="682.0" rx="1.5" ry="2.0" fill="#334957" stroke="#334957" stroke-width="2"/>
+<ellipse cx="916.5" cy="682.0" rx="1.5" ry="2.0" fill="#334957" stroke="#334957" stroke-width="2"/>
+<polyline points="901,692 906,695 912,691" fill="none" stroke="#334957" stroke-width="2"/>
+<polyline points="895,734 891,743 881,743" fill="none" stroke="#334957" stroke-width="3"/>
+<polyline points="918,734 924,743 933,743" fill="none" stroke="#334957" stroke-width="3"/>
+<polyline points="889,711 875,720" fill="none" stroke="#334957" stroke-width="3"/>
+<polyline points="924,711 939,709" fill="none" stroke="#334957" stroke-width="3"/>
+<ellipse cx="946.0" cy="709.0" rx="14.0" ry="14.0" fill="#e2f2f8" stroke="#334957" stroke-width="2"/>
+<polyline points="955,720 968,733" fill="none" stroke="#334957" stroke-width="4"/>
+<text x="978" y="701" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="27" font-weight="600" fill="#334957"><tspan x="978" dy="0">6 换题检验</tspan></text>
+<text x="978" y="735" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="18" font-weight="400" fill="#697b80"><tspan x="978" dy="0">放大镜 · 看见缺口</tspan></text>
+<text x="872" y="791" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="21" font-weight="400" fill="#334957"><tspan x="872" dy="0">独立做新任务，逐项核对。</tspan><tspan x="872" dy="33.0">表现、体验和条件分开看。</tspan><tspan x="872" dy="33.0">隔一段时间再试能否调用。</tspan></text>
+<text x="872" y="878" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="19" font-weight="600" fill="#2e756d"><tspan x="872" dy="0">CP3 综合验收 · CP4 保持</tspan></text>
+<rect x="450" y="650" width="300" height="250" rx="16" fill="#eef5ef" stroke="#b3c3c6" stroke-width="2"/>
+<ellipse cx="510.5" cy="741.5" rx="37.5" ry="4.5" fill="#e4e6df" stroke="#e4e6df" stroke-width="2"/>
+<rect x="489" y="702" width="35" height="33" rx="10" fill="#91b8b0" stroke="#334957" stroke-width="2"/>
+<ellipse cx="506.5" cy="685.5" rx="22.5" ry="20.5" fill="#ffe1b8" stroke="#334957" stroke-width="2"/>
+<ellipse cx="496.5" cy="682.0" rx="1.5" ry="2.0" fill="#334957" stroke="#334957" stroke-width="2"/>
+<ellipse cx="516.5" cy="682.0" rx="1.5" ry="2.0" fill="#334957" stroke="#334957" stroke-width="2"/>
+<polyline points="501,692 506,695 512,691" fill="none" stroke="#334957" stroke-width="2"/>
+<polyline points="495,734 491,743 481,743" fill="none" stroke="#334957" stroke-width="3"/>
+<polyline points="518,734 524,743 533,743" fill="none" stroke="#334957" stroke-width="3"/>
+<polyline points="489,711 475,720" fill="none" stroke="#334957" stroke-width="3"/>
+<polyline points="524,711 539,709" fill="none" stroke="#334957" stroke-width="3"/>
+<rect x="530" y="701" width="32" height="37" rx="8" fill="#f7cf8a" stroke="#334957" stroke-width="2"/>
+<rect x="537" y="717" width="19" height="13" rx="3" fill="#fff5dc" stroke="#334957" stroke-width="2"/>
+<polyline points="539,701 539,693 553,693 553,701" fill="none" stroke="#334957" stroke-width="2"/>
+<text x="578" y="701" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="27" font-weight="600" fill="#334957"><tspan x="578" dy="0">7 带走成果</tspan></text>
+<text x="578" y="735" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="18" font-weight="400" fill="#697b80"><tspan x="578" dy="0">背包 · 下次接得上</tspan></text>
+<text x="472" y="791" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="21" font-weight="400" fill="#334957"><tspan x="472" dy="0">保存解释、出处与修正。</tspan><tspan x="472" dy="33.0">留下下次入口和适用条件。</tspan><tspan x="472" dy="33.0">调用后，再查适用条件。</tspan></text>
+<text x="472" y="878" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="19" font-weight="600" fill="#2e756d"><tspan x="472" dy="0">复用检查：找得到，也用得上</tspan></text>
+<rect x="50" y="650" width="300" height="250" rx="16" fill="#fff0e9" stroke="#b3c3c6" stroke-width="2"/>
+<ellipse cx="110.5" cy="741.5" rx="37.5" ry="4.5" fill="#e4e6df" stroke="#e4e6df" stroke-width="2"/>
+<rect x="89" y="702" width="35" height="33" rx="10" fill="#91b8b0" stroke="#334957" stroke-width="2"/>
+<ellipse cx="106.5" cy="685.5" rx="22.5" ry="20.5" fill="#ffe1b8" stroke="#334957" stroke-width="2"/>
+<ellipse cx="96.5" cy="682.0" rx="1.5" ry="2.0" fill="#334957" stroke="#334957" stroke-width="2"/>
+<ellipse cx="116.5" cy="682.0" rx="1.5" ry="2.0" fill="#334957" stroke="#334957" stroke-width="2"/>
+<polyline points="101,692 106,695 112,691" fill="none" stroke="#334957" stroke-width="2"/>
+<polyline points="95,734 91,743 81,743" fill="none" stroke="#334957" stroke-width="3"/>
+<polyline points="118,734 124,743 133,743" fill="none" stroke="#334957" stroke-width="3"/>
+<polyline points="89,711 75,720" fill="none" stroke="#334957" stroke-width="3"/>
+<polyline points="124,711 139,709" fill="none" stroke="#334957" stroke-width="3"/>
+<ellipse cx="156.5" cy="717.0" rx="7.5" ry="7.0" fill="#fffdf8" stroke="#334957" stroke-width="2"/>
+<rect x="129" y="704" width="26" height="25" rx="4" fill="#f4d5ca" stroke="#334957" stroke-width="2"/>
+<polyline points="134,696 131,689 135,682" fill="none" stroke="#ba8473" stroke-width="2"/>
+<text x="178" y="701" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="27" font-weight="600" fill="#334957"><tspan x="178" dy="0">恢复与支持</tspan></text>
+<text x="178" y="735" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="18" font-weight="400" fill="#697b80"><tspan x="178" dy="0">热杯 · 调整学习条件</tspan></text>
+<text x="72" y="791" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="21" font-weight="400" fill="#334957"><tspan x="72" dy="0">可以休息、缩小任务，</tspan><tspan x="72" dy="33.0">也可以请人一起做第一步。</tspan><tspan x="72" dy="33.0">恢复后回到当下这一站。</tspan></text>
+<text x="72" y="878" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="19" font-weight="600" fill="#2e756d"><tspan x="72" dy="0">暂停时只留一个返回入口</tspan></text>
+<polyline points="600,900 600,940" fill="none" stroke="#334957" stroke-width="3" marker-end="url(#a)"/>
+<text x="455" y="969" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="23" font-weight="600" fill="#334957"><tspan x="455" dy="0">下一任务：把已有理解带回 CP0，按新用途再检查。</tspan></text>
+<polyline points="55,1032 145,1032" fill="none" stroke="#334957" stroke-width="3" marker-end="url(#a)"/>
+<text x="163" y="1038" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="21" font-weight="400" fill="#334957"><tspan x="163" dy="0">实线：推荐行动／信息如何接续；线上文字说明关系。</tspan></text>
+<polyline points="55,1082 145,1082" fill="none" stroke="#334957" stroke-width="2.5" stroke-dasharray="8 7" marker-end="url(#a)"/>
+<text x="163" y="1088" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="21" font-weight="400" fill="#334957"><tspan x="163" dy="0">虚线：需要时返回、调整或获得支持；无需每次全部走一遍。</tspan></text>
+<text x="1015" y="1038" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="18" font-weight="400" fill="#7a8584"><tspan x="1015" dy="0">教学路径综合，不是因果诊断图。</tspan><tspan x="1015" dy="27.0">依据与完整示范见指导手册；</tspan><tspan x="1015" dy="27.0">小卡通帮助定位，不代表能力等级。</tspan></text>
+</svg>
